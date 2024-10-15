@@ -30,5 +30,12 @@
 ![Screenshot (482)](https://github.com/user-attachments/assets/be38cecf-fbf4-4a8c-98e4-716f068acab2)
 
 # PERTANYAAN DAN TUGAS
+# 1. Buatlah form yang menampilkan dropdown dan listbox dengan multiple selection
+
+# JAWABAN
+# 1. Membuat dropdown
+
+# 2. Membuat listbox 
+![image](https://github.com/user-attachments/assets/fbc031b0-404c-4f07-bb75-2b89084ec34d)
 
 
