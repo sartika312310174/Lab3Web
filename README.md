@@ -34,8 +34,14 @@
 
 # JAWABAN
 # 1. Membuat dropdown
+![image](https://github.com/user-attachments/assets/66d0f153-bab5-430f-bd1d-d7f62eff0552)
 
 # 2. Membuat listbox 
 ![image](https://github.com/user-attachments/assets/fbc031b0-404c-4f07-bb75-2b89084ec34d)
+![image](https://github.com/user-attachments/assets/d2e8c9ca-57d8-4935-b49f-28e99b4849a1)
+
+# Jika digabungkan
+![image](https://github.com/user-attachments/assets/b1c79f68-b4bf-4815-bff6-6b155ced16c1)
+
 
 
