@@ -19,3 +19,13 @@
 
 # 7. Membuat form dengan menggunakan tag "form" dan atribut, atributnya yaitu "action" dan "method".
 ![image](https://github.com/user-attachments/assets/906a50ee-b88d-4466-a53b-4b7faffc030b)
+
+# 8. Menambahkan style pada form dengan CSS
+![image](https://github.com/user-attachments/assets/289628e3-4afe-4d02-9ed5-61d75d888893)
+
+# Validasi file html, karena dalam file html tersebut terdapat atribut css maka yang tampil seperti gambar di bawah
+![image](https://github.com/user-attachments/assets/a9497304-1424-4d22-baa1-bfb367d595d0)
+
+# Maka dari itu saya menggunakan validasi file css
+![Screenshot (482)](https://github.com/user-attachments/assets/be38cecf-fbf4-4a8c-98e4-716f068acab2)
+
