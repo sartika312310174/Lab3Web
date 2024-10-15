@@ -6,4 +6,5 @@
 ![Screenshot (467)](https://github.com/user-attachments/assets/904059ff-2980-48c2-aa0e-8ce5e9255fff)
 
 # 3. Membuat Description List dengan menggunakan tag "dl".
+![Screenshot (469)](https://github.com/user-attachments/assets/f1e26a7b-7b3b-4cc9-b495-b0c6a56ad62b)
 
