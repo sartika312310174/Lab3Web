@@ -12,7 +12,7 @@
 ![Screenshot (478)](https://github.com/user-attachments/assets/81394612-8084-4421-80c1-bb35fa96db03)
 
 # 5. Mengatur margin dan padding pada tabel dengan menambahkan atribut "cellpading" dan "cellspacing".
-![Uploading Screenshot (479).png…]()
+![Screenshot (479)](https://github.com/user-attachments/assets/94c76a3d-b3c1-404f-bdd0-926f99ff2056)
 
 # 6. Menggabungkan sel data dengan menggunakanatribut "rowspan" dan "colspan".
 ![Screenshot (480)](https://github.com/user-attachments/assets/9ff9d081-5db0-4369-b59a-0ebd8a542136)
