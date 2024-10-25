@@ -1,4 +1,5 @@
 # Lab3Web
+# Nama= Sartika Agustin, Nim= 312310174, Kelas= TI.23.A2
 # 1. Membuat Ordered List dengan menggunakan tag "ol" dan "li" untuk (list item).
 ![Screenshot (475)](https://github.com/user-attachments/assets/3964ba93-c805-4ab2-9bde-6eac77efd798)
 
